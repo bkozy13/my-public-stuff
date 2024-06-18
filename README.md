@@ -1,2 +1,2 @@
 # my-public-stuff
-public place for me to mess with my stuff
+I like learning how to do these types of things.
